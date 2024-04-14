@@ -1,5 +1,7 @@
 ### MySQL技术内幕
 
+
+
 ### 第1章 MySQL体系结构和存储引擎
 
 #### 1.1 定义数据库和实例
@@ -32,7 +34,7 @@
 
 ![图1.1 MySQL体系结构](https://github.com/thiswv/Mysql_Insider/blob/main/images/%E5%9B%BE1.1%20MySQL%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.png?raw=true)
 
-
+​						*图1.1 MySQL体系结构*
 
 MySQL区别其他数据库的重要特点是**可插拔式的表存储引擎。**
 
@@ -133,7 +135,9 @@ Linux服务器会有一张权限试图，用来判断请求的客户端IP是否�
 
 #### 2.3 InnoDB体系结构
 
+![图2.2 InnoDB体系结构](https://raw.githubusercontent.com/thiswv/Mysql_Insider/main/images/%E5%9B%BE2.1%20InnoDB%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.bmp)
 
+​						*图2.2 InnoDB体系结构*
 
 
 
